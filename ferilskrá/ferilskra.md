@@ -50,7 +50,7 @@ Tók við stöðu flokkstjóra hjá garðyrkjudeild HÍ sumarið 2019 og kom aft
 ---
 
 ## Menntun
-**2020-núna** Háskóli Íslands  
+**2021-núna** Háskóli Íslands  
 **2017-2020** Menntaskólinn við Hamrahlíð - *Stúdentspróf á Náttúrufræðibraut*  
 **2017-2019** Tónlistarskóli FÍH - *Miðpróf í rythmískum bassaleik og tónfræði*  
 **2007-2017** Álfhólsskóli - *Grunnskólapróf* 
