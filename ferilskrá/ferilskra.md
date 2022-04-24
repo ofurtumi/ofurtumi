@@ -38,7 +38,7 @@ Tók við stöðu flokkstjóra hjá garðyrkjudeild HÍ sumarið 2019 og kom aft
 ### Tæknikunnátta
 Ég er að læra tölvunarfræði í **HÍ** þar sem ég fæ kennslu í klassískri forritun, en hef verið að forrita lengur en það. Mín helstu áhugasvið liggja í framenda-, tölvuleikja- og vélbúnaðarforritun. Forritunarmálin sem ég kann best telja til **Python**, **Java**, **C#**, **SQL**, **Ribbit**, **Javascript**/**Typescript**, **CSS**, **SCSS** og **Sass**. Þau framework sem ég er að notast mest við í framenda eru svo **NodeJS**, **React**, **NextJS**, **Django** og **express**. Þetta eru bara þau framework og mál sem ég þekki best, svo er ég alltaf að fikta eitthvað með nýtt í frítímanum mínum.
 
-### Félagsstörf
+### Félagsstörf 
 Ég hef  í gegn um alla mína skólagöngu verið virkur þáttakandi í félagsstörfum. Þegar covid skall á ákvað ég að læra á streymi og sá um að halda viðburði yfir netið fyrir **Nemendafélg MH** og **Hitt Húsið**. Ég er góður í samskiptum við annað fólk og hef ágæta reynslu af því að koma fram fyrir stóra hópa af fólki. Ég sit núna sem skemmtanastjóri í stjórn **Nemendafélags Tölvunar- og Hugbúnaðarverkfræðinga Háskóla Íslands** eða **Nörd** eins og það er betur þekkt.
 
 ### Tónlist
