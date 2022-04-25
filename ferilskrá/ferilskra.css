@@ -1,4 +1,4 @@
-* {
+*, body {
 	font-size: 0.95em;
 	font-family: 'Berkeley Mono';
 	/* font-family: monospace; */
@@ -18,13 +18,25 @@ img {
 	justify-self: flex-end;
 }
 
-p {
+div p {
 	font-size: 1.3em;
 	margin: 0;
 	grid-column: 1;
 	align-self: center;
 }
 
-div:nth-child(n+2) {
-  grid-row: calc(n);
+/* div p:nth-child(2) {
+  grid-row: 1;
 }
+div p:nth-child(3) {
+  grid-row: 2;
+}
+div p:nth-child(4) {
+  grid-row: 3;
+}
+div p:nth-child(5) {
+  grid-row: 4;
+}
+div p:nth-child(6) {
+  grid-row: 5;
+} */
