@@ -2,7 +2,7 @@
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; max-height: 175px">
     <img src='tumi2.JPG' style="grid-column:2; grid-row: span 5; max-height: 175px; justify-self: flex-end">
-    <p style="font-size: 1.3em; margin: 0; grid-column: 1; grid-row: 1; align-self: center">Nám: 1. ár tölvunarfræði HÍ</p>
+    <p style="font-size: 1.3em; margin: 0; grid-column: 1; grid-row: 1; align-self: center">Nám: tölvunarfræði HÍ</p>
     <p style="font-size: 1.3em; margin: 0; grid-column: 1; grid-row: 2; align-self: center">Sími: 6660603</p>
     <p style="font-size: 1.3em; margin: 0; grid-column: 1; grid-row: 3; align-self: center">Fæddur: 6. sept 2001</p>
     <p style="font-size: 1.3em; margin: 0; grid-column: 1; grid-row: 4; align-self: center">Email: thorvaldur.tumi@gmail.com</p>
