@@ -1,5 +1,30 @@
 * {
-  font-size: 0.95em;
-  font-family:'Berkeley Mono';
-  /* font-family: monospace; */
+	font-size: 0.95em;
+	font-family: 'Berkeley Mono';
+	/* font-family: monospace; */
+}
+
+div {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	align-items: center;
+	max-height: 175px;
+}
+
+img {
+	grid-column: 2;
+	grid-row: span 5;
+	max-height: 175px;
+	justify-self: flex-end;
+}
+
+p {
+	font-size: 1.3em;
+	margin: 0;
+	grid-column: 1;
+	align-self: center;
+}
+
+div:nth-child(n+2) {
+  grid-row: calc(n);
 }
