@@ -2,11 +2,11 @@
 
 <div>
     <img src='tumi2.JPG'>
-    <p style="grid-row: 3;">Fæddur: 6. sept 2001</p>
-    <p style="grid-row: 1;">Nám: tölvunarfræði HÍ</p>
-    <p style="grid-row: 2;">Sími: 6660603</p>
-    <p style="grid-row: 4;">Email: thorvaldur.tumi@gmail.com</p>
-    <p style="grid-row: 5;">Vefsíða: <a href="https://sjomli.is">sjomli.is</a></p>
+    <p>Fæddur: 6. sept 2001</p>
+    <p>Nám: tölvunarfræði HÍ</p>
+    <p>Sími: 6660603</p>
+    <p>Email: thorvaldur.tumi@gmail.com</p>
+    <p>Vefsíða: <a href="https://sjomli.is">sjomli.is</a></p>
 </div>
 
 ## Starfsreynsla
