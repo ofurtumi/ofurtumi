@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "new": "md2pdf --stylesheet ferilskrá/md.css ferilskrá/ferilskra.md" ,
-    "html": "md2pdf --as-html --stylesheet ferilskrá/html.css ferilskrá/ferilskra.md" ,
     "watch": "md2pdf --stylesheet ferilskrá/ferilskra.css -w ferilskrá/ferilskra.md",
     "help": "md2pdf -h"
   },
