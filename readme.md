@@ -1,6 +1,6 @@
 # góðan og blessaðan, ég er Tumi
 
-tölvunarfræðinemi við HÍ með rjúkandi áhuga á vef- og tölvuleikjaforritun. öll mín verkefni eru opin hér fyrir fólk að sjá og fyrir samnemendur mína til að fá *innblástur*
+tölvunarfræðinemi við HÍ með fókus á vef- og tölvuleikjaforritun. öll mín verkefni eru opin hér fyrir fólk að sjá og fyrir samnemendur mína til að fá *innblástur*
 * 🌠 að reyna læra það sem ég get, alltaf spenntur fyrir næsta verkefni
 * 📖 open source, það sem ég geri á fólk að geta séð
 * 🏕 alltaf að leita að ehv til að fara með í útilegu
