@@ -1,25 +1,33 @@
-# Þorvaldur Tumi Baldursson
 
-<div>
+<div class="header">
+    <h1>Þorvaldur Tumi Baldursson</h1>
+    <div class="inner">
+        <p>Fæddur: 6. sept 2001</p>
+        <p>Nám: tölvunarfræði HÍ</p>
+        <p>Sími: 6660603</p>
+        <p>Email: thorvaldur.tumi@gmail.com</p>
+        <p>Vefsíða: <a href="https://sjomli.is">sjomli.is</a></p>
+    </div>
     <img src='tumi2.JPG'>
-    <p>Fæddur: 6. sept 2001</p>
-    <p>Nám: tölvunarfræði HÍ</p>
-    <p>Sími: 6660603</p>
-    <p>Email: thorvaldur.tumi@gmail.com</p>
-    <p>Vefsíða: <a href="https://sjomli.is">sjomli.is</a></p>
 </div>
 
 ## Starfsreynsla
 ---
+### Aðstoðarkennari - Háskóli Íslands
+**Haust 2022**  
+Fékk starf sem aðstoðarkennari við Vefforritun 1 á haustönn skólaárið 2022-2023. Mér var boðið starfið vegna góðra einkunna úr vefforritun 1 og 2 árið áður. Starfið felst mest í því að aðstoða nemendur við verkefni og að fara yfir önnur verkefni og gefa þeim einkunnir. Starfið hefur hingað til reynst mér mjög skemmtilegt og kennt mér ýmislegt.
+
+---
+
 ### Tæknistjóri - Hannesarholt
-**2020-núna**  
-Ég byrjaði sem tæknistjóri hjá tónlistar- og menningarhúsinu Hannesarholti til hliðar skóla í október 2020. Í upphafi var ég að aðalega að uppfæra vefsíðu Hannesarholts og sjá um tæknimál og streymi á tónleikum. Ég hóf svo fullt starf eftir útskrift í desember 2020 og sá um að smíða tæknilausnir fyrir vefinn og sögusýningu sem var haldin á þeim tíma. Ég hélt stöðunni minni í Hannesarholti eftir sumarið 2021 og hef unnið hlutastarf með skóla síðan þá.
+**2020-2022**  
+Ég byrjaði sem tæknistjóri hjá tónlistar- og menningarhúsinu Hannesarholti til hliðar skóla í október 2020. Í upphafi var ég að aðalega að uppfæra vefsíðu Hannesarholts og sjá um tæknimál og streymi á tónleikum. Ég hóf svo fullt starf eftir útskrift í desember 2020 og sá um að smíða tæknilausnir fyrir vefinn og sögusýningu sem var haldin á þeim tíma. Ég hélt stöðunni minni í Hannesarholti eftir sumarið 2021 þangað til í október 2022, þegar ég sagði upp störfum til að geta sinnt skólanum af fullum krafti.
 
 ---
 
 ### Flokkstjóri - Háskóli Íslands
-**2019-2020**  
-Tók við stöðu flokkstjóra hjá garðyrkjudeild HÍ sumarið 2019 og kom aftur sumarið 2020 til að halda stöðunni. Ég var yfir hópi af fólki sem taldi um 12 manns, mest jafnaldrar mínir eða aðeins yngra fólk. Starfið fól í sér að passa að verkefni væru framkvæmd rétt, auk þess að bera ábyrgð á fólkinu sem vann þau.
+**2019-2022**  
+Tók við stöðu flokkstjóra hjá garðyrkjudeild HÍ sumarið 2019 og kom aftur næstu sumur til að halda stöðunni. Ég var yfir hópi af fólki sem taldi um 12 manns, mest jafnaldrar mínir eða aðeins yngra fólk. Starfið fól í sér að passa að verkefni væru framkvæmd rétt, auk þess að bera ábyrgð á fólkinu sem vann þau.
 
 ---
 
@@ -39,7 +47,9 @@ Tók við stöðu flokkstjóra hjá garðyrkjudeild HÍ sumarið 2019 og kom aft
 ---
 
 ### Tæknikunnátta
-Ég er að læra tölvunarfræði í **HÍ** þar sem ég fæ kennslu í klassískri forritun, en hef verið að forrita lengur en það. Mín helstu áhugasvið liggja í framenda-, tölvuleikja- og vélbúnaðarforritun. Forritunarmálin sem ég kann best telja til **Python**, **Java**, **C#**, **SQL**, **Ribbit**, **Javascript**/**Typescript**, **CSS**, **SCSS** og **Sass**. Þau framework sem ég er að notast mest við í framenda eru svo **NodeJS**, **React**, **NextJS**, **Django** og **express**. Þetta eru bara þau framework og mál sem ég þekki best, svo er ég alltaf að fikta eitthvað með nýtt í frítímanum mínum.
+Ég er að læra tölvunarfræði í **HÍ** þar sem ég fæ kennslu í klassískri forritun, en hef verið að forrita lengur en það. Mín helstu áhugasvið liggja í framenda-, tölvuleikja- og vélbúnaðarforritun. Forritunarmálin sem ég kann best telja til **Java**, **Python**, **C**, **C#**, **Lisp**, **Ribbit**, **Javascript**/**Typescript**, **CSS** og **SCSS**/**Sass**. 
+Þau framework sem ég er að notast mest við í framenda eru svo **NodeJS**, **React**, **NextJS** og **Prismic**.
+Ég er líka vell kunnugur á öll helstu stýrikerfi, þe. **Linux**, **Windows** og **MacOS**
 
 ---
 
