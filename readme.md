@@ -10,7 +10,7 @@ tölvunarfræðinemi við HÍ með fókus á vef- og tölvuleikjaforritun. öll 
   * ⚙️ er að reyna læra [Rust](https://rust-lang.org) on the side fyrir stærri verkefni, er að gera mig létt brjálaðan :) 
 * 📫 hafðu samband, upplýsingar á [síðunni minni](https://sjomli.is)
 
-<div style="display: grid;  width: 100%; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; justify-items: space-between; max-height: 100px; align: center; margin 0 auto;">
+<div style="display: flex;  width: 100%; justify-content: space-between; max-height: 100px; align-items: center; margin 0 auto;">
  <img style="height: 100px" src="imgs/Svelte_Logo.png" />
  <img style="height: 100px" src="imgs/React_Logo.png" />
  <img style="height: 100px" src="imgs/Prismic_Logo.png" />
