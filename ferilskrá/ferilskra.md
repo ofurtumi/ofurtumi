@@ -14,8 +14,8 @@
 ## Starfsreynsla
 ---
 ### Aðstoðarkennari - Háskóli Íslands
-**Haust 2022**  
-Fékk starf sem aðstoðarkennari við Vefforritun 1 á haustönn skólaárið 2022-2023. Mér var boðið starfið vegna góðra einkunna úr vefforritun 1 og 2 árið áður. Starfið felst mest í því að aðstoða nemendur við verkefni og að fara yfir önnur verkefni og gefa þeim einkunnir. Starfið hefur hingað til reynst mér mjög skemmtilegt og kennt mér ýmislegt.
+**2022 - núna**  
+Starfaði sem aðstoðarkennari við vefforritun 1 í HÍ haustönn 2022. Ég var svo beðin um að taka að mér aðstoðarkennslustöðu við framhaldsáfangann vefforritun 2. Starfið felur í sér að aðstoða nemendur við heimadæmi og gefa út einkunnir fyrir skilaverkefni. Starfið hefur reynst mér mjög skemmtilegt og haldið mér í þjálfun með efnið.
 
 ---
 
@@ -47,19 +47,26 @@ Tók við stöðu flokkstjóra hjá garðyrkjudeild HÍ sumarið 2019 og kom aft
 ---
 
 ### Tæknikunnátta
-Ég er að læra tölvunarfræði í **HÍ** þar sem ég fæ kennslu í klassískri forritun, en hef verið að forrita lengur en það. Mín helstu áhugasvið liggja í framenda-, tölvuleikja- og vélbúnaðarforritun. Forritunarmálin sem ég kann best telja til **Java**, **Python**, **C**, **C#**, **Lisp**, **Ribbit**, **Javascript**/**Typescript**, **CSS** og **SCSS**/**Sass**. 
+Ég er að læra tölvunarfræði í **HÍ** þar sem ég fæ kennslu í klassískri forritun, en hef verið að forrita lengur en það. Mín helstu áhugasvið liggja í framenda-, tölvuleikja- og vélbúnaðarforritun. Forritunarmálin sem ég kann best telja til **Java**, **Python**, **C**, **C#**, **C++**, **rust**, **Lisp**, **Ribbit**, **Javascript**/**Typescript**, **CSS** og **SCSS**/**Sass**. 
 Þau framework sem ég er að notast mest við í framenda eru svo **NodeJS**, **React**, **NextJS** og **Prismic**.
 Ég er líka vell kunnugur á öll helstu stýrikerfi, þe. **Linux**, **Windows** og **MacOS**
 
 ---
 
 ### Félagsstörf 
-Ég hef  í gegn um alla mína skólagöngu verið virkur þáttakandi í félagsstörfum. Þegar covid skall á ákvað ég að læra á streymi og sá um að halda viðburði yfir netið fyrir **Nemendafélg MH** og **Hitt Húsið**. Ég er góður í samskiptum við annað fólk og hef ágæta reynslu af því að koma fram fyrir stóra hópa af fólki. Ég sit núna sem skemmtanastjóri í stjórn **Nemendafélags Tölvunar- og Hugbúnaðarverkfræðinga Háskóla Íslands** eða **Nörd** eins og það er betur þekkt.
+Ég hef  í gegn um alla mína skólagöngu verið virkur þáttakandi í félagsstörfum. Þegar covid skall á ákvað ég að læra á streymi og sá um að halda viðburði yfir netið fyrir **Nemendafélg MH** og **Hitt Húsið**. 
+Ég er góður í samskiptum við annað fólk og hef ágæta reynslu af því að koma fram fyrir stóra hópa af fólki. 
+Ég sit núna sem skemmtanastjóri í stjórn **Nemendafélags Tölvunar- og Hugbúnaðarverkfræðinga Háskóla Íslands** eða **Nörd** eins og það er betur þekkt.
+
+---
+### Verkefni utan skóla
+Ég er virkur þáttakandi í hakkaþonum og reyni að keppa í öllum hakkaþonum sem ég frétti af. Síðustu tvö hakkaþon sem ég tók þátt í skiluðu sér vel, **2. sæti** í Hack Reykjavík hjá Genki Instruments og **4. sæti** í Climathon hjá Reykjavíkurborg.  
+Síðasta ár tók ég þátt í *Seeds For The Future* verkefninu frá Huawei. Þar unnum ég og liðið mitt frumkvöðlakeppni á móti öðrum liðum frá norðurlöndum og balkanskaganum, ásamt þeim sigri lennti liðið meðal topp 5 liða í Evrópu.
 
 ---
 
 ### Tónlist
-Ég hef æft tónlist mjög lengi og í nokkrum mismunandi skólum. Ég lærði á klassísk píanó hjá **Nýja Tónlistarskólanum** í þrjú ár, á rafbassa hjá **Skólahljómsveit Kópavogs** í sjö ár og svo aftur á rafbassa hjá **Tónlistarskóla FíH** í tvö ár þar sem ég náði mér í miðpróf á rythmískan rafmagnsbassa. Nýlega hef ég verið að spila með hljómsveitinni **Sameheads**. Við lentum í 3. sæti í músíktilraunum núna vorið 2022.
+Ég hef æft tónlist mjög lengi og í nokkrum mismunandi skólum. Ég lærði á klassískt píanó hjá **Nýja Tónlistarskólanum** í þrjú ár, á rafbassa hjá **Skólahljómsveit Kópavogs** í sjö ár og svo aftur á rafbassa hjá **Tónlistarskóla FíH** í tvö ár þar sem ég náði mér í miðpróf á rythmískan rafmagnsbassa. Nýlega hef ég verið að spila með hljómsveitinni **Sameheads**. Við lentum í 3. sæti í músíktilraunum vorið 2022.
 
 ---
 
@@ -72,4 +79,3 @@ Tók við stöðu flokkstjóra hjá garðyrkjudeild HÍ sumarið 2019 og kom aft
 **2021-núna** Háskóli Íslands  
 **2017-2020** Menntaskólinn við Hamrahlíð - *Stúdentspróf á Náttúrufræðibraut*  
 **2017-2019** Tónlistarskóli FÍH - *Miðpróf í rythmískum bassaleik og tónfræði*  
-**2007-2017** Álfhólsskóli - *Grunnskólapróf* 
