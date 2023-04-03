@@ -7,7 +7,7 @@ tölvunarfræðinemi við HÍ með fókus á vef- og tölvuleikjaforritun. öll 
 * 💻 tækni sem ég er að vinna með í augnablikinu:
   * 🌐 mikið að fikta í [Svelte](https://svelte.dev) en vinn mest með [React](https://reactjs.org) og [Prismic](https://prismic.io)
   * 🎮 nota [Unity](https://unity.com) og js canvas fyrir leikjagerð og ýmsar myndrænar tilraunir
-  * ⚙️ er að reyna læra [Rust](https://rust-lang.org) on the side fyrir stærri verkefni, er að gera mig létt brjálaðan :) 
+  * ⚙️ er að læra [Rust](https://rust-lang.org) on the side fyrir stærri verkefni, elska það :) 
 * 📫 hafðu samband, upplýsingar á [síðunni minni](https://sjomli.is)
 
 <div style="display: flex;  width: 100%; justify-content: space-between; max-height: 100px; align-items: center; margin 0 auto;">
