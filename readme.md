@@ -1,19 +1,19 @@
 # góðan og blessaðan, ég er Tumi
 
-tölvunarfræðinemi við HÍ með fókus á vef- og tölvuleikjaforritun. öll mín verkefni eru opin hér fyrir fólk að sjá og fyrir samnemendur mína til að fá *innblástur*
-* 🌠 að reyna læra það sem ég get, alltaf spenntur fyrir næsta verkefni
+tölvunarfræðinemi við HÍ með fókus á vef- og viðmótsforritun. öll mín verkefni eru opin hér fyrir fólk að sjá og fyrir samnemendur mína til að fá *innblástur*
+* 🌠 reyni að deila öllu því sem ég læri og nýt þess að skrifa kennsluefni fyrir sjálfan mig og aðra
 * 📖 open source, það sem ég geri á fólk að geta séð
-* 🏕 alltaf að leita að ehv til að fara með í útilegu
+* 🏕 alltaf að leita að fólki til að koma með á skíði
 * 💻 tækni sem ég er að vinna með í augnablikinu:
-  * 🌐 mikið að fikta í [Svelte](https://svelte.dev) en vinn mest með [React](https://reactjs.org) og [Prismic](https://prismic.io)
-  * 🎮 nota [Unity](https://unity.com) og js canvas fyrir leikjagerð og ýmsar myndrænar tilraunir
-  * ⚙️ er að læra [Rust](https://rust-lang.org) on the side fyrir stærri verkefni, elska það :) 
+  * 🌐 mín persónulegu verkefni eru flest í [Svelte](https://svelte.dev) en hef meira unnið með [React](https://reactjs.org) í production verkefnum
+  * 🎮 hef fiktað slatta í [Unity](https://unity.com) fyrir leiki og tilraunir en er að skoða [Godot](https://godotengine.org) fyrir framtíðina
+  * ⚙️ uppáhalds málið mitt í augnavlikinu er [Rust](https://rust-lang.org), svo kósý og skemmtilegt 
 * 📫 hafðu samband, upplýsingar á [síðunni minni](https://sjomli.is)
 
 <div style="display: flex;  width: 100%; justify-content: space-between; max-height: 100px; align-items: center; margin 0 auto;">
  <img style="height: 100px" src="imgs/Svelte_Logo.png" />
  <img style="height: 100px" src="imgs/React_Logo.png" />
- <img style="height: 100px" src="imgs/Prismic_Logo.png" />
+ <img style="height: 100px" src="imgs/Godot_logo.png" />
  <img style="height: 100px" src="imgs/Unity_Logo.png" />
  <img style="height: 100px" src="imgs/Rust_Logo.png" />
 </div>
