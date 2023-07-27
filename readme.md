@@ -5,7 +5,7 @@ tölvunarfræðinemi við HÍ með fókus á vef- og viðmótsforritun. öll mí
 * 📖 open source, það sem ég geri á fólk að geta séð
 * 🧗 alltaf að leita að fólki til að koma með og klifra
 * 💻 tækni sem ég er að vinna með í augnablikinu:
-  * 🌐 mín persónulegu verkefni eru flest í [**Svelte**](https://svelte.dev) en vinn meira í [**React**](https://reactjs.org) starfi
+  * 🌐 mín persónulegu verkefni eru flest í [**Svelte**](https://svelte.dev) en hef meiri starfsreynslu í [**React**](https://reactjs.org)
   * 🎮 hef verið að leika mér í [**Godot**](https://godotengine.org) en ekki alveg búið að ná heljartaki á mér
   * ⚙️ elska [**Rust**](https://rust-lang.org) og langar að nota það ennþá meira
 * 📫 hafðu samband, upplýsingar á [**síðunni minni**](https://sjomli.is)
